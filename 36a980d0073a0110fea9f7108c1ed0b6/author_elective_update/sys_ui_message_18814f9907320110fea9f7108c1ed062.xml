@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="DELETE">
+        <application>Virtual Agent</application>
+        <code/>
+        <commented_message/>
+        <key>あるタイプの要求のneeditレコードを見つけて更新するのを手伝うことができます。</key>
+        <language>en</language>
+        <message>あるタイプの要求のNeedItレコードを見つけて更新するのを手伝うことができます。</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-10 23:53:34</sys_created_on>
+        <sys_id>18814f9907320110fea9f7108c1ed062</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>あるタイプの要求のneeditレコードを見つけて更新するのを手伝うことができます。</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_784228_needit_vi">36a980d0073a0110fea9f7108c1ed0b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">36a980d0073a0110fea9f7108c1ed0b6</sys_scope>
+        <sys_update_name>sys_ui_message_18814f9907320110fea9f7108c1ed062</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-10 23:53:34</sys_updated_on>
+    </sys_ui_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt Virtual Agent Conversations">36a980d0073a0110fea9f7108c1ed0b6</application>
+        <file_path/>
+        <instance_id>aae49c6edb8fb70491232f17d496194a</instance_id>
+        <instance_name>dev90921</instance_name>
+        <name>sys_ui_message_18814f9907320110fea9f7108c1ed062</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message"><sys_ui_message action="INSERT_OR_UPDATE"><application>Virtual Agent</application><code/><commented_message/><key>あるタイプの要求のneeditレコードを見つけて更新するのを手伝うことができます。</key><language>en</language><message>あるタイプの要求のNeedItレコードを見つけて更新するのを手伝うことができます。</message><sys_class_name>sys_ui_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-10 23:53:34</sys_created_on><sys_id>18814f9907320110fea9f7108c1ed062</sys_id><sys_mod_count>0</sys_mod_count><sys_name>あるタイプの要求のneeditレコードを見つけて更新するのを手伝うことができます。</sys_name><sys_package display_value="NeedIt Virtual Agent Conversations" source="x_784228_needit_vi">36a980d0073a0110fea9f7108c1ed0b6</sys_package><sys_policy/><sys_scope display_value="NeedIt Virtual Agent Conversations">36a980d0073a0110fea9f7108c1ed0b6</sys_scope><sys_update_name>sys_ui_message_18814f9907320110fea9f7108c1ed062</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-10 23:53:34</sys_updated_on></sys_ui_message></record_update>]]></payload>
+        <payload_hash>1650703271</payload_hash>
+        <record_name>あるタイプの要求のneeditレコードを見つけて更新するのを手伝うことができます。</record_name>
+        <reverted_from/>
+        <source>3ea980d0073a0110fea9f7108c1ed0b8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-10 23:53:34</sys_created_on>
+        <sys_id>d4814f9907320110fea9f7108c1ed064</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18015e5aa520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-10 23:53:34</sys_updated_on>
+        <type>Message</type>
+        <update_guid>10814f99f13201106b6cb3d95fcb5464</update_guid>
+        <update_guid_history>10814f99f13201106b6cb3d95fcb5464:1650703271</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-11 07:34:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_message">sys_ui_message</sys_db_object>
+        <sys_id>411c0611d724496cacdbbab26e709490</sys_id>
+        <sys_metadata>18814f9907320110fea9f7108c1ed062</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>あるタイプの要求のneeditレコードを見つけて更新するのを手伝うことができます。</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_784228_needit_vi">36a980d0073a0110fea9f7108c1ed0b6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">36a980d0073a0110fea9f7108c1ed0b6</sys_scope>
+        <sys_scope_delete display_value="">15c15f641a1f4124ae7d946e85cb6810</sys_scope_delete>
+        <sys_update_name>sys_ui_message_18814f9907320110fea9f7108c1ed062</sys_update_name>
+        <sys_update_version display_value="sys_ui_message_18814f9907320110fea9f7108c1ed062">d4814f9907320110fea9f7108c1ed064</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-11 07:34:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
